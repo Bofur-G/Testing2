@@ -457,7 +457,7 @@ nav.primary {
       top: 50px; } }
   @media screen and (max-width: 760px) {
     nav.primary ul {
-      background: #F1F1F2;
+      background: #DDDDDD;
       z-index: 1000;
       padding: 1em 1em;
       display: none !important;
